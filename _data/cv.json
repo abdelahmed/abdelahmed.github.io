@@ -1,61 +1,48 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Abdelrahman Ahmed",
+    "email": "abdel200@student.ubc.ca",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently working as a Software Engineer at Amazon. My research area is Machine Learning and Deep Learning innovation and their applications to System and GPU optimization.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Vancouver",
+      "countryCode": "CA",
       "region": ""
     },
     "profiles": [
+      
       {
-        "network": "Google Scholar",
+        "network": "LinkedIn",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://www.linkedin.com/in/abdelrahman-a-4a5105150/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "abdelahmed",
+        "url": "https://github.com/abdelahmed"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of British Columbia",
+      "area": "BSc in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": "4.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of British Columbia",
+      "area": "Masters in Electrical and Computer Engineering (Machine Learning)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2025",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
